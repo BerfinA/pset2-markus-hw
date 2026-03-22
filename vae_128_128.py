@@ -1,6 +1,6 @@
 """
 Problem Set 2 - Question 2: VAE at 128x128 Resolution
-Higher resolution for sharper, more detailed results
+Higher resolution for sharper, more detailed results--> collapsed
 """
 
 import numpy as np

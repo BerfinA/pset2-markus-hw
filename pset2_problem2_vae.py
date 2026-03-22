@@ -1,6 +1,6 @@
 """
 Problem Set 2 - Question 2: VAE for GRF Microstructures
-Variational Autoencoder - better for generation!
+Variational Autoencoder (for generatiion may be better?)
 """
 
 import numpy as np
